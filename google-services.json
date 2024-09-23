@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865377646334",
+    "project_id": "walletbusinesscards-4fd47",
+    "storage_bucket": "walletbusinesscards-4fd47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865377646334:android:5113c8962291449bc717af",
+        "android_client_info": {
+          "package_name": "com.sebashosk8.WalletBusinessCards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKunvgTnxiVPMhXQ-ej5OG1dek9cnhUL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
